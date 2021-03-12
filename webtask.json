@@ -1,8 +1,8 @@
 {
   "title": "Sesh Account Link",
   "name": "sesh-account-link",
-  "version": "2.6.2",
-  "preVersion": "2.6.1",
+  "version": "2.6.3",
+  "preVersion": "2.6.2",
   "author": "Sesh",
   "description":
     "This extension gives Auth0 customers the ability to allow their users to link their accounts",
